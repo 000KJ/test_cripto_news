@@ -1,0 +1,1 @@
+export { getAttributesCol } from "./getAttributesCol";
